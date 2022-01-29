@@ -1,0 +1,100 @@
+{
+    "bot": {
+        "owner": "",
+        "prefix": ".",
+        "mongoUrl": "mongodb+srv://oceanospublic:oceanospublic@cluster0.s4jc1.mongodb.net/oceanosdatabase?retryWrites=true&w=majority",
+        "BotStatus": "🜅 OKEANOS",
+        "cooldown": 8,
+        "iltifatsize": 100
+    },
+    "penals": {
+        "ban": {
+            "staff": "928018136932941824",
+            "log": "928027859895865394",
+            "limit": 3
+        },
+        "jail": {
+            "staff": "928017476963414079",
+            "roles": "928017398479618118",
+            "log": "928017684824752158",
+            "limit": 5
+        },
+        "mute": {
+            "staff": "928004360603062302",
+            "roles": "928008463106318396",
+            "log": "935260231271845928",
+            "limit": 5
+
+        },
+        "chatmute": {
+            "staff": "928004360603062302",
+            "roles": "928008555020300298",
+            "log": "935260231271845928",
+            "limit": 5
+
+        },
+        "warn": {
+            "staff": "928007736413810688",
+            "log": "928027876777926657"
+        },
+        "points": {
+            "mutepoints": "10",
+            "banpoints": "30",
+            "jailpoints": "20",
+            "warnpoints": "5"
+        }
+    },
+    "logs": {
+        "messagelog": "928027469817200700",
+        "voicelog": "928027451718774855",
+        "taglog": "928001064312143952"
+    },
+    "roles": {
+        "boosterrole": "927910245945196626",
+        "viprole": "928002011922857994",
+        "designerrole": "928007011323490354",
+        "musiciansrole": ["928005998449418310", "928006547106308097"],
+        "team": "927995736224845884",
+        "sponsored": "928002740574121994"
+    },
+    "channels": {
+        "chat": "927951349948223530",
+        "welcomechannel": "927952007824830464",
+        "rules": "932581771592220732"
+    },
+    "parents": {
+        "publicparents": "928839149241380874"
+    },
+    "registration": {
+        "unregistered": "927952336536608768",
+        "man": ["927951447084113950", "927992975844315136"],
+        "woman": ["927951449344856105", "927992929094606910"],
+        "staff": ["928837637702291506", "929535574417756190", "928004360603062302", "928837213431685140"], 
+        "kayitmesajyetkilisi": "928004360603062302",
+        "namechanger": ["929535574417756190", "928837213431685140"],
+        "GuilDTag": "🜅",
+        "TagSymbol": "🜄",
+        "autonickname": "🜄 Oceanos | Kayıtsız",
+        "symbol": "|",
+        "suspecios": "927952714493730867",
+        "susoeciosnickname": "$ Şüpheli Hesap",
+        "oneman": "927951447084113950",
+        "onewoman": "927951449344856105",
+        "minage": 12, 
+        "purchase": false
+    },
+    "Guild": {
+        "GuildID": "927892198823964732",
+        "GuilDName": "🜅 OCEANOS",
+        "GuildOwnerRole": ["927893921307197500"]
+    },
+    "emojis": {
+        "tada": "🎉",
+        "yes": "✔️",
+        "no": "❌"
+    },
+    "buttons": {
+        "giveaway": "928019343856529479",
+        "activity": "928019193436176414"
+    }
+}
